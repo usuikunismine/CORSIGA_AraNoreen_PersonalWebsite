@@ -16,3 +16,10 @@ html {
 	margin: 0 auto;
 	margin-top: 140px;
 }
+
+.prof-pic {
+		border-radius: 50%;
+		height: 200px;
+		width: 200px;
+
+}
