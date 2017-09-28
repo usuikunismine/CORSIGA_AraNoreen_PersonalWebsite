@@ -36,3 +36,12 @@ p {
 	font-weight: 200;
 	letter-spacing: 1;
 }
+
+
+.sicons {
+	font-size: 40px;
+
+}
+.sicons a {
+	color: white;
+}
