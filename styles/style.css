@@ -1,4 +1,5 @@
 
+
 html { 
   background: url(../images/bg.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
@@ -16,6 +17,7 @@ html {
 	padding: 40px;
 	color: white;
 	margin-top: 140px;
+	margin-bottom: 50px;
 	text-align: center;
 	border: 1px solid black; 
 }
@@ -48,6 +50,20 @@ p {
 
 h2 {
 	color: black;
-	margin-top: 500px;
+	margin-top: 70px;
 	text-align: center;
+}
+
+
+.scroll2 {
+	background: url("../images/parallax.jpg") repeat fixed 50%;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.scroll2_in {
+	padding-top: 10%;
+	padding-bottom: 10%;
 }
