@@ -1,3 +1,4 @@
+
 html { 
   background: url(../images/bg.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
@@ -7,18 +8,16 @@ html {
   font-family: 'Helvetica Neue', sans-serif;
 }
 
-
 .box {
 	width: 400px;
 	height: 400px;
-	background: rgba(0,0,0,0,4);
-	padding: 40px;
-	color: black;
+	background-color: rgba(0,0,0,0.4);
 	margin: 0 auto;
+	padding: 40px;
+	color: white;
 	margin-top: 140px;
 	text-align: center;
-	border: 1px solid black;
-	
+	border: 1px solid black; 
 }
 
 .prof-pic {
