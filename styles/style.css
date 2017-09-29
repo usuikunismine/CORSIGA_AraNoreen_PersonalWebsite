@@ -13,10 +13,12 @@ html {
 	height: 400px;
 	background: rgba(0,0,0,0,4);
 	padding: 40px;
-	color: white;
+	color: black;
 	margin: 0 auto;
 	margin-top: 140px;
 	text-align: center;
+	border: 1px solid black;
+	
 }
 
 .prof-pic {
