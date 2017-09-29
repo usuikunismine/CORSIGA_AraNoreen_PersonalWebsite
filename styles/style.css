@@ -24,7 +24,6 @@ html {
 		border-radius: 50%;
 		height: 200px;
 		width: 200px;
-
 }
 
 h1 {
@@ -45,4 +44,10 @@ p {
 }
 .sicons a {
 	color: white;
+}
+
+h2 {
+	color: black;
+	margin-top: 500px;
+	text-align: center;
 }
