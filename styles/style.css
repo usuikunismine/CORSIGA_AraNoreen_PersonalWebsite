@@ -30,7 +30,8 @@ html {
 
 .arapic {
 	width: 500px;
-	height: 700px;
+	height: 500px;
+	padding 10px
 }
 
 
@@ -57,7 +58,8 @@ p {
 
 h2 {
 	color: black;
-	margin-left: 800px;
+	margin-left: 700px;
+	margin-bottom: 500px;
 	text-align: left;
 }
 
