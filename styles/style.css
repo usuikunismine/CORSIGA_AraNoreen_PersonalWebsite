@@ -29,7 +29,7 @@ html {
 
 h1 {
 	font-weight: 100;
-	letter-spacing: 6;
+	letter-spacing: 4;
 	font-size: 40px;
 }
 
@@ -40,7 +40,7 @@ p {
 
 
 .sicons {
-	font-size: 40px;
+	font-size: 35px;
 
 }
 .sicons a {
