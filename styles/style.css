@@ -28,6 +28,12 @@ html {
 		width: 200px;
 }
 
+.arapic {
+	width: 200px;
+	height: 100px;
+}
+
+
 h1 {
 	font-weight: 100;
 	letter-spacing: 1;
@@ -50,7 +56,7 @@ p {
 }
 
 h2 {
-	color: white;
+	color: black;
 	margin-top: 50px;
 	margin-left: 800px;
 	text-align: left;
@@ -58,7 +64,7 @@ h2 {
 
 
 .scroll2 {
-	background: url("../images/black.jpg") repeat fixed 50%;
+	background: url("../images/white.jpg") repeat fixed 50%;
 	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
