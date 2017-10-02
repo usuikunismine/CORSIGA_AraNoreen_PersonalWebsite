@@ -107,12 +107,12 @@ h2 {
 }
 
 .school {
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 500;
   line-height: 14px;
   letter-spacing: 0.4px;
   text-transform: uppercase;
-  color: #cccccc;
+  color:black;
 }
 .year {
   font-size: 26px;
