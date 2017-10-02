@@ -199,3 +199,11 @@ h2 {
 .card:hover:before {
   -webkit-transform: scaleY(1);
 }
+.job {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 14px;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  color: #cccccc;
+}
