@@ -64,10 +64,18 @@ h2 {
 	text-align: left;
 }
 
-.educ {
-	margin-left: 100%;
+.div3 {
+	padding: 30px;
+	background-color: rgba(0,0,0,0.4);
+	margin: 0 auto;
+}
+
+#h1a {
+	margin-left: 100px;
 	color: black;
 }
+
+
 
 .scroll2 {
 	background: url("../images/white.jpg") repeat fixed 50%;
